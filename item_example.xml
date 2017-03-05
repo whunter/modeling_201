@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <sv:node xmlns:premis="http://www.loc.gov/premis/rdf/v1#" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:ns004="info:fedora/fedora-system:def/relations-external#" xmlns:ns003="http://pcdm.org/models#" xmlns:ns002="http://purl.org/dc/terms/" xmlns:ns001="info:fedora/fedora-system:def/model#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mode="http://www.modeshape.org/1.0" xmlns:ns007="http://www.w3.org/ns/auth/acl#" xmlns:ns006="http://id.loc.gov/vocabulary/relators/" xmlns:ns005="http://scholarsphere.psu.edu/ns#" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:fedoraconfig="http://fedora.info/definitions/v4/config#" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:image="http://www.modeshape.org/images/1.0" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:test="info:fedora/test/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fedora="http://fedora.info/definitions/v4/repository#" xmlns:ebucore="http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#" xmlns:ldp="http://www.w3.org/ns/ldp#" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dc="http://purl.org/dc/elements/1.1/" sv:name="m613mx563">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>nt:folder</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>fedora:Container</sv:value>
+      <sv:value>fedora:Resource</sv:value>
+      <sv:value>ns003:Object</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>cccbcefc-e029-4033-bd49-44135df91573</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:provenance" sv:type="String" sv:multiple="true">
+      <sv:value>My item provenance</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:lastModifiedBy" sv:type="String">
+      <sv:value>bypassAdmin</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns001:downloadFilename" sv:type="String" sv:multiple="true">
+      <sv:value>war_sunset.jpg</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:publisher" sv:type="String" sv:multiple="true">
+      <sv:value>University Libraries, Virginia Tech</sv:value>
+    </sv:property>
+    <sv:property sv:name="foaf:based_near" sv:type="String" sv:multiple="true">
+      <sv:value>Blacksburg, VA</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>bypassAdmin</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:created" sv:type="Date">
+      <sv:value>2017-03-05T21:41:24.509Z</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:lastModified" sv:type="Date">
+      <sv:value>2017-03-05T22:34:40.316Z</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:modified" sv:type="String" sv:multiple="true">
+      <sv:value xsi:type="xs:base64Binary">MjAxNy0wMy0wNVQyMjozNDo0MC4xODk5MzU1NzgrMDAwMBheXhhodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYSNkYXRlVGltZQ==</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:subject" sv:type="String" sv:multiple="true">
+      <sv:value>My item subject</sv:value>
+    </sv:property>
+    <sv:property sv:name="rdfs:seeAlso" sv:type="String" sv:multiple="true">
+      <sv:value>http://my-item-related-doi-23456</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns005:relativePath" sv:type="String" sv:multiple="true">
+      <sv:value></sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:contributor" sv:type="String" sv:multiple="true">
+      <sv:value>contributor@vt.edu</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:rights" sv:type="String" sv:multiple="true">
+      <sv:value>http://creativecommons.org/licenses/by/3.0/us/</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns001:hasModel" sv:type="String" sv:multiple="true">
+      <sv:value>GenericFile</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:dateSubmitted" sv:type="String" sv:multiple="true">
+      <sv:value xsi:type="xs:base64Binary">MjAxNy0wMy0wNVQyMTo0MToyNC4zMDUwNjkyNzErMDAwMBheXhhodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYSNkYXRlVGltZQ==</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns004:isPartOf_ref" sv:type="WeakReference" sv:multiple="true">
+      <sv:value>d03b5e4e-8d05-439a-b48b-5c32ef3fed09</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:identifier" sv:type="String" sv:multiple="true">
+      <sv:value>http://my-item-doi-12345</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:creator" sv:type="String" sv:multiple="true">
+      <sv:value>blah@vt.edu</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns006:dpt" sv:type="String" sv:multiple="true">
+      <sv:value>blah@vt.edu</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:created" sv:type="String" sv:multiple="true">
+      <sv:value>03/05/2017</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:description" sv:type="String" sv:multiple="true">
+      <sv:value>Sunset image of War Memorial, Virginia Tech</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:language" sv:type="String" sv:multiple="true">
+      <sv:value>English</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:title" sv:type="String" sv:multiple="true">
+      <sv:value>war_sunset.jpg</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:type" sv:type="String" sv:multiple="true">
+      <sv:value>Image</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:relation" sv:type="String" sv:multiple="true">
+      <sv:value>architecture</sv:value>
+    </sv:property>
+  </sv:node>

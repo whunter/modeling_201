@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <sv:node xmlns:premis="http://www.loc.gov/premis/rdf/v1#" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:ns004="info:fedora/fedora-system:def/relations-external#" xmlns:ns003="http://pcdm.org/models#" xmlns:ns002="http://purl.org/dc/terms/" xmlns:ns001="info:fedora/fedora-system:def/model#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mode="http://www.modeshape.org/1.0" xmlns:ns007="http://www.w3.org/ns/auth/acl#" xmlns:ns006="http://id.loc.gov/vocabulary/relators/" xmlns:ns005="http://scholarsphere.psu.edu/ns#" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:fedoraconfig="http://fedora.info/definitions/v4/config#" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:image="http://www.modeshape.org/images/1.0" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:test="info:fedora/test/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fedora="http://fedora.info/definitions/v4/repository#" xmlns:ebucore="http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#" xmlns:ldp="http://www.w3.org/ns/ldp#" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dc="http://purl.org/dc/elements/1.1/" sv:name="g445cd121">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>nt:folder</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>fedora:Container</sv:value>
+      <sv:value>fedora:Resource</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>d421fd85-fd38-4680-b3db-3c3b2ea4dea0</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:lastModifiedBy" sv:type="String">
+      <sv:value>bypassAdmin</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:publisher" sv:type="String" sv:multiple="true">
+      <sv:value>University Libraries, Virginia Tech</sv:value>
+    </sv:property>
+    <sv:property sv:name="foaf:based_near" sv:type="String" sv:multiple="true">
+      <sv:value>Blacksburg, VA</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>bypassAdmin</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:created" sv:type="Date">
+      <sv:value>2017-03-05T21:53:18.694Z</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:lastModified" sv:type="Date">
+      <sv:value>2017-03-05T21:53:56.712Z</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:subject" sv:type="String" sv:multiple="true">
+      <sv:value>landscapes</sv:value>
+    </sv:property>
+    <sv:property sv:name="rdfs:seeAlso" sv:type="String" sv:multiple="true">
+      <sv:value>http://my-dataset-related-doi-45678</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:contributor" sv:type="String" sv:multiple="true">
+      <sv:value>contributor@vt.edu</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:rights" sv:type="String" sv:multiple="true">
+      <sv:value>http://creativecommons.org/licenses/by/3.0/us/</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns001:hasModel" sv:type="String" sv:multiple="true">
+      <sv:value>Collection</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns004:hasCollectionMember_ref" sv:type="WeakReference" sv:multiple="true">
+      <sv:value>cccbcefc-e029-4033-bd49-44135df91573</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:identifier" sv:type="String" sv:multiple="true">
+      <sv:value>http://my-dataset-doi-34567</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:creator" sv:type="String" sv:multiple="true">
+      <sv:value>whunter@vt.edu</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns006:dpt" sv:type="String" sv:multiple="true">
+      <sv:value>blah@vt.edu</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:created" sv:type="String" sv:multiple="true">
+      <sv:value>03/05/2017</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:description" sv:type="String" sv:multiple="true">
+      <sv:value>Collection of images from around the Virginia Tech campus in Blacksburg, VA.</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:language" sv:type="String" sv:multiple="true">
+      <sv:value>English</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:title" sv:type="String" sv:multiple="true">
+      <sv:value>Campus Images</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:type" sv:type="String" sv:multiple="true">
+      <sv:value>Dataset</sv:value>
+    </sv:property>
+    <sv:property sv:name="ns002:relation" sv:type="String" sv:multiple="true">
+      <sv:value>landscape</sv:value>
+      <sv:value>architecture</sv:value>
+    </sv:property>
+  </sv:node>
